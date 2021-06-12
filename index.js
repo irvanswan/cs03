@@ -3,8 +3,7 @@
  * Silahkan ubah file fizzbuzz.js
  */
 
-const FizzBuzz = require('./fizzbuzz');
+const fizzBuzz = require('./fizzbuzz');
 
 let max = 100;
-let fb = new FizzBuzz();
-fb.printTo(max);
+fizzBuzz(max);

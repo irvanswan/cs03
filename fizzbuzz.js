@@ -1,7 +1,5 @@
-class FizzBuzz {
-    printTo(max) {
-        console.log('Silahkan edit file fizzbuzz.js');
-    }
+const fizzBuzz = function(max) {
+    console.log('Silahkan ubah file fizzbuzz.js');
 }
 
-module.exports = FizzBuzz;
+module.exports = fizzBuzz;
