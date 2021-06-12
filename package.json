@@ -1,0 +1,29 @@
+{
+  "name": "cs03",
+  "version": "1.0.0",
+  "description": "Computer Science - Case Study 03 - FizzBuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/affandes/cs03.git"
+  },
+  "keywords": [
+    "computer",
+    "science",
+    "algorithm",
+    "algoritma",
+    "fizzbuzz",
+    "javascript",
+    "js",
+    "nodejs"
+  ],
+  "author": "Muhammad Affandes <affandes@uin-suska.ac.id>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/affandes/cs03/issues"
+  },
+  "homepage": "https://github.com/affandes/cs03#readme"
+}
